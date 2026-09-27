@@ -1,0 +1,16 @@
+import = [
+    "~/.theme/alacritty/catppuccin-macchiato.toml"
+]
+
+[font]
+size = 15.0
+normal = { family = "MesloLGS Nerd Font Mono", style = "Regular" }
+italic = { family = "MesloLGS Nerd Font Mono", style = "Italic" }
+bold = { family = "MesloLGS Nerd Font Mono", style = "Bold" }
+
+[window.padding]
+x = 10
+y = 10
+
+[cursor]
+style = { shape = "Underline", blinking = "off" }
